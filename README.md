@@ -55,7 +55,7 @@ To run the This application locally, follow these steps:
     pip3 install Flask-Cors
 
     # Install mysql-connector-python
-    pip install mysql-connector-python
+    pip3 install mysql-connector-python
    ```
 5. Configure MySQL Database and edit the credentials at sql_connecter.py:
 

@@ -11,6 +11,6 @@ pip3 install Flask
 pip3 install Flask-Cors
 
 # Install mysql-connector-python
-pip install mysql-connector-python
+pip3 install mysql-connector-python
 
 
