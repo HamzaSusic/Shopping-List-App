@@ -5,13 +5,8 @@ Welcome to my Tacta Internship Project! This web application is made usign Pytho
 ## Table of Contents
 
 - [Description](#description)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Database Setup](#database-setup)
-- [Contributing](#contributing)
-- [License](#license)
+- [Challenges Faced](#challenges-faced)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
