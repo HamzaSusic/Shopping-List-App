@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#shopper-selection {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+#shopper-dropdown, #items, #shopping-list-table {
+    width: 100%;
+}
+
+#item-list, #shopping-list {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+}

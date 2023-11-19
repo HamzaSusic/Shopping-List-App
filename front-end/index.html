@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Shopping App</h1>
+
+    <div id="shopper-selection">
+        <label for="shopper-dropdown">Select Shopper:</label>
+        <select id="shopper-dropdown"></select>
+    </div>
+
+    <div id="item-list">
+        <h2>Available Items</h2>
+        <table id="items">
+            <!-- Items will be populated dynamically from the database -->
+        </table>
+    </div>
+
+    <button id="add-to-list-btn">Add to Shopping List</button>
+    <button id="display-list-btn" onclick="window.location.href='/Users/hamzasusic/Desktop/tacta/front-end/shoppingList.html'">Display Shopping List</button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
