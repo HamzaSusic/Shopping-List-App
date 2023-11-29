@@ -1,5 +1,5 @@
 # Import SQL connection
-from sql_connector import get_sql_connection
+from sql_connecter import get_sql_connection
 
 # Define SQL query as a constant
 SELECT_ALL_SHOPPERS_QUERY = "SELECT * FROM shopping_list.Shoppers;"

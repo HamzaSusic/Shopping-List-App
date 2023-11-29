@@ -1,6 +1,6 @@
-# Tacta Internship Project
+# Python Shopping List Project
 
-Welcome to my Tacta Internship Project! This web application is made usign Python, Flask, HTML, CSS, JS, and MySQL. It is a shopping list management tool. Users can create and save shopping lists for individual shoppers, adhering to the constraint that each item can be found in a maximum of three shopping lists.
+This web application is made usign Python, Flask, HTML, CSS, JS, and MySQL. It is a shopping list management tool. Users can create and save shopping lists for individual shoppers, adhering to the constraint that each item can be found in a maximum of three shopping lists.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to my Tacta Internship Project! This web application is made usign Pytho
 
 ## Description
 
-The Tacta Internship Project is a full-stack web application that displays a pre-populated list of shoppers (5) and shopping items (5). Users can create shopping lists for each shopper, with the limitation that each item can only appear in a maximum of three lists.
+This is a full-stack web application that displays a pre-populated list of shoppers (5) and shopping items (5). Users can create shopping lists for each shopper, with the limitation that each item can only appear in a maximum of three lists.
 
 
 ## Installation
@@ -75,18 +75,9 @@ To run the This application locally, follow these steps:
 
 The application should now be running on http://localhost:4999
 
-## Challenges Faced
 
-During the development of this project, I faced challenges due to midterm exams (3). Balancing the demands of academic responsibilities alongside project development required careful time management and prioritization, so if I made some silly mistakes Im sorry :), I will try and learn from this experiance.
 
-## Acknowledgments
 
-- Thank you to Tacta for providing the internship opportunity.
-- Special thanks to contributors who are reviewing this project, looking foward to your responese!
-
-## Contact
-
-Email: hamzasusic@gmail.com
 
 
 
