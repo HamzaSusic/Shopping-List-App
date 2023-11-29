@@ -6,9 +6,6 @@ This web application is made usign Python, Flask, HTML, CSS, JS, and MySQL. It i
 
 - [Description](#description)
 - [Installation](#installation)
-- [Challenges Faced](#challenges-faced)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
 
 ## Description
 
