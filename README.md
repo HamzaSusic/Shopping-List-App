@@ -19,12 +19,12 @@ To run the This application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hamzasusic/tacta-internship-project.git
+   git clone https://github.com/hamzasusic/Shopping-List-App
    ```
 2. Navigate to the project directory:
 
    ```bash
-   cd tacta-internship-project
+   cd Shopping-List-App
    ```
 3. Give the bash script permision to execute
 
